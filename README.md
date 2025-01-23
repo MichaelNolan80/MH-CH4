@@ -20,6 +20,13 @@
 - 13 - As this VM does not need amy resorces I have give it 20GB hard drive and 2GB of RAM. I did have an issue with my mouse getting stuck, im using multipal monitors and i found disconnecting my laptop form the docking station sorted it so i could releave it, there maybe a mouse issue with VMware that i will look into.
 - 14 - now its time to download and install windows 7, you habe to make sure you find a pre-patched version of this as as we need the exploits still available. I had a copy so I used that.
 - 15 - Im going to give it 40GBs of hard drive and 4 GBs for RAM, lets see how we get on.
-- 16 - now thats done we have to install MySQL on the Windows 7 system <a href="https://www.oldapps.com">From here.</a>
+- 16 - now thats done we have to install MySQL on the Windows 7 system <a href="http://www.oldversion.com/windows/mysql-community-server-5-5-15">From here.</a>
+![image](https://github.com/user-attachments/assets/7156e84a-1b22-4ef5-917e-6be71e8d21bd)
+- 17 - Im having a little issue with the files so im going to add a shared folder so that i can put files into the folder from my local drive and can access them from the VM's.This is done by closing the VM to start then right clicking the VM, options and Shared Folders. 
+- ![image](https://github.com/user-attachments/assets/a551baef-0854-4fc1-b9ef-7937ba59f975)
+
+Iv created a Shared folder in the VM Folder to keep everything net. I have added all the VMs to the access list for the Shared Folder. 
+
+
 
 
