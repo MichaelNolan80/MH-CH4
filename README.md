@@ -17,6 +17,8 @@
 - 11 - Now we are going to download two systems that are purposley vulnerable one is Metasploitable 2 and the other is windows 7 pre patched. 
 - 12 - Time to down load <a href="https://sourceforge.net/projects/Metasploitable/">Metasploitable 2.</a>, This was not as easy as i has hoped so headed to youtube for some help. as the folder did not have a clear file to use. Turns out the have to create the VM without an OS but then add it after. I got the info from <a href="https://www.youtube.com/watch?v=5F7j2E94p9Y">INfoSec Pat Here.</a>
 
-- 13 - As this VM does not need amy resorces I have give it 20GB hard drive and 2GB of RAM. I did have an issue with my mouse getting stuck, im using multipal monitors and i found disconnecting my laptop form the docking station sorted it so i could releave it, there maybe a mouse issue with VMware that i will now look into.
+- 13 - As this VM does not need amy resorces I have give it 20GB hard drive and 2GB of RAM. I did have an issue with my mouse getting stuck, im using multipal monitors and i found disconnecting my laptop form the docking station sorted it so i could releave it, there maybe a mouse issue with VMware that i will look into.
+- 14 - now its time to download and install windows 7, you habe to make sure you find a pre-patched version of this as as we need the exploits still available. I had a copy so I used that.
+- 15 - Im going to give it 40GBs of hard drive and 4 GBs for RAM, lets see how we get on.
 
 
