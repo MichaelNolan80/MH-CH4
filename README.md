@@ -25,7 +25,10 @@
 - 17 - Im having a little issue with the files so im going to add a shared folder so that i can put files into the folder from my local drive and can access them from the VM's.This is done by closing the VM to start then right clicking the VM, options and Shared Folders. 
 - ![image](https://github.com/user-attachments/assets/a551baef-0854-4fc1-b9ef-7937ba59f975)
 
-Iv created a Shared folder in the VM Folder to keep everything net. I have added all the VMs to the access list for the Shared Folder. 
+- 18 - Iv created a Shared folder in the VM Folder to keep everything net. I have added all the VMs to the access list for the Shared Folder. 
+![image](https://github.com/user-attachments/assets/6e56b9f2-5cdc-49c8-ad74-6cb6fdbd1040)
+
+- 19 - So theres extra steps for this to work with legacy OS's, pop up is sending me to get <a href=" https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso">This File.</a>  and then go to <a href="https://knowledge.broadcom.com/external/article?legacyId=1014294">website to get the instructions.</a>
 
 
 
