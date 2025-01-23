@@ -28,7 +28,12 @@
 - 18 - Iv created a Shared folder in the VM Folder to keep everything net. I have added all the VMs to the access list for the Shared Folder. 
 ![image](https://github.com/user-attachments/assets/6e56b9f2-5cdc-49c8-ad74-6cb6fdbd1040)
 
-- 19 - So theres extra steps for this to work with legacy OS's, pop up is sending me to get <a href=" https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso">This File.</a>  and then go to <a href="https://knowledge.broadcom.com/external/article?legacyId=1014294">website to get the instructions.</a>
+- 19 - So theres extra steps for this to work with legacy OS's, pop up is sending me to get <a href=" https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso">This File.</a>  and then go to <a href="https://knowledge.broadcom.com/external/article?legacyId=1014294">website to get the instructions.
+- </a>![image](https://github.com/user-attachments/assets/9a7e7be9-6e5f-4659-a6a4-7c36c20b23ab)
+- - 20 - here are the links if you are loading them on the <a href="https://knowledge.broadcom.com/external/article?articleId=376237"> Windows OS.</a> , <a href="https://knowledge.broadcom.com/external/article/315313"> Ubuntu.</a>, This was not playing ball but by chance I stryed putting in a USB and it gace me the open to connect it to the host or a VM. This worked for MySQL but not for the Disc File that will allow me to share files accress the VMs. I will investigate this more later.  
+  - ![image](https://github.com/user-attachments/assets/8c1bd260-68ad-4f6d-a0ac-78ec6c5e9acb)
+
+
 
 
 
