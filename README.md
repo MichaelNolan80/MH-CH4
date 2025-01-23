@@ -34,7 +34,7 @@
   - ![image](https://github.com/user-attachments/assets/8c1bd260-68ad-4f6d-a0ac-78ec6c5e9acb)
  
   - 21 - This worked for MySQL but not for the Disc File that will allow me to share files accress the VMs. After some digging it turns out that the Internet Exsplorer is too old and will not let the download the file. the advice i got from X-Info ( here ) is to down load Firefox. But heres the kicker, for it to work we need to install some Microsoft Updates which will involve some security updates so im going to leave it here.
-  - 22 - the last thing to do on this section is to create a batadase with the MySQL that we have just installed - 
+  - 22 - the last thing to do on this section is to create a batadase with the MySQL that we have just installed - This was an issue as it would not complete when i did a secure user. but was fine when I set up as a anonamuse user. which is fine as we dont want to much security. 
 
 
 
