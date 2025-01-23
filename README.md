@@ -1,4 +1,4 @@
-# Building a Hacking VertualLab
+# Building a Hacking Virtual Lab
 ## Downloading and Install the Software - 
 
 - 1 - I started by download the lastest VMware Software <a href="https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro">From here. You need to be signed in.</a> Make sure you pick the right operating system you are putting the VMware on. 
