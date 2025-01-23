@@ -30,8 +30,11 @@
 
 - 19 - So theres extra steps for this to work with legacy OS's, pop up is sending me to get <a href=" https://packages-prod.broadcom.com/tools/frozen/linux/linux.iso">This File.</a>  and then go to <a href="https://knowledge.broadcom.com/external/article?legacyId=1014294">website to get the instructions.
 - </a>![image](https://github.com/user-attachments/assets/9a7e7be9-6e5f-4659-a6a4-7c36c20b23ab)
-- - 20 - here are the links if you are loading them on the <a href="https://knowledge.broadcom.com/external/article?articleId=376237"> Windows OS.</a> , <a href="https://knowledge.broadcom.com/external/article/315313"> Ubuntu.</a>, This was not playing ball but by chance I stryed putting in a USB and it gace me the open to connect it to the host or a VM. This worked for MySQL but not for the Disc File that will allow me to share files accress the VMs. I will investigate this more later.  
+- - 20 - here are the links if you are loading them on the <a href="https://knowledge.broadcom.com/external/article?articleId=376237"> Windows OS.</a> , <a href="https://knowledge.broadcom.com/external/article/315313"> Ubuntu.</a>, This was not playing ball but by chance I stryed putting in a USB and it gace me the open to connect it to the host or a VM.  
   - ![image](https://github.com/user-attachments/assets/8c1bd260-68ad-4f6d-a0ac-78ec6c5e9acb)
+ 
+  - 21 - This worked for MySQL but not for the Disc File that will allow me to share files accress the VMs. After some digging it turns out that the Internet Exsplorer is too old and will not let the download the file. the advice i got from X-Info ( here ) is to down load Firefox. But heres the kicker, for it to work we need to install some Microsoft Updates which will involve some security updates so im going to leave it here.
+  - 22 - the last thing to do on this section is to create a batadase with the MySQL that we have just installed - 
 
 
 
