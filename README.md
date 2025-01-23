@@ -14,8 +14,8 @@
 - 10 - now that we are done we are going to take a snap shot of the operating system in case we brake something later.
 - ![image](https://github.com/user-attachments/assets/c63d77f8-f2ec-45b2-9a63-171c95a262fa)
 
-- 11 - Now we are going to download two systems that are purposley vulnerable one is Metasploite 2 and the other is windows 7 pre patched. 
-
+- 11 - Now we are going to download two systems that are purposley vulnerable one is Metasploitable 2 and the other is windows 7 pre patched. 
+- 12 - Time to down load <a href="https://sourceforge.net/projects/Metasploitable/">Metasploitable 2.</a>
 
 
 
