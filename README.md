@@ -36,6 +36,9 @@
   - 21 - This worked for MySQL but not for the Disc File that will allow me to share files accress the VMs. After some digging it turns out that the Internet Exsplorer is too old and will not let the download the file. the advice i got from X-Info ( here ) is to down load Firefox. But heres the kicker, for it to work we need to install some Microsoft Updates which will involve some security updates so im going to leave it here.
   - 22 - the last thing to do on this section is to create a datadase with the MySQL that we have just installed - This was an issue as it would not complete when i did a secure user. but was fine when I set up as a anonamuse user. which is fine as we dont want to much security. The way its done in the book is not working for me today, this may just be that the book was writen so long ago. Once again iv gone looking for the answer and found it  - <a href="https://www.youtube.com/watch?v=ZpbFsGu3NiY"> here.</a>
 
+- 23 - Created the dababases in MySQL -
+![image](https://github.com/user-attachments/assets/24c3ebc9-8005-4285-8bc5-0cc4a705992a)
+- 24 - Last thing to do now is to take a snap shot of the OS with the batabase within.
 
 
 
